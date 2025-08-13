@@ -1,0 +1,16 @@
+{
+  "name": "video-streaming-website-backend",
+  "version": "1.0.0",
+  "description": "Follow along project for 'Chai aur Backend' series Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai-aur-code"
+  ],
+  "author": "Lavish Agarwal",
+  "license": "ISC"
+}
